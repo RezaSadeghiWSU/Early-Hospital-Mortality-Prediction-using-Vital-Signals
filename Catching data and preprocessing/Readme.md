@@ -1,5 +1,7 @@
 In this level, the waveform records of target patients is downloaded from the Matching subset of MIMIC-III (https://physionet.org). Then the inital one hour of heart rates described in terms of 12 statistical and signal-based features.
 
+Please note that you should sign in physionet.org befor running the code. Also, this code has been run with sudo command on Ubunto.
+
 
 Key files:
 
