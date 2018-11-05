@@ -11,6 +11,6 @@ https://arxiv.org/abs/1803.06589
 
 This source code is provided in three levels of segregating the desired patients, catching data and preprocessing, and classificaion.
 
-Please, cite the paper and star this implementation if you found this implementation useful. Also, feel free to contact me if you need any further information via the following link. 
+Please, cite the paper and star this implementation if you find this implementation useful. Also, feel free to contact me if you need any further information via the following link. 
 
 https://rezasadeghiwsu.github.io/Website/
