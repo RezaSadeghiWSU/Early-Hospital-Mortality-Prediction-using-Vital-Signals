@@ -13,6 +13,9 @@ Inputs: RECORDS-numerics, PureCCUWave.mat (T -> RowRECORDS_numerics column of CC
 
 Outputs: all waveforms of the target patients
 
+Details: When WaveformCatching.m is executed, it asks for selecting a file. Which is RECORDS-numerics. It contains the name of waveform you intend to download (For instance: p00/p000020/p000020-2183-04-28-17-47n). Since the whole waveform MIMIC-III has volume more than 2 TB, it is wise decision to download only a subset of them.
+
+
 ---------------------------------------------------------------------------------------------------------------------------------
 
 Name:
